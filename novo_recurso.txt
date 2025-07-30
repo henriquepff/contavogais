@@ -1,4 +1,4 @@
 
 metodo_novo(){
-	inicial
+	prog_2.
 }
