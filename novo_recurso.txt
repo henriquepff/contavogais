@@ -1,0 +1,4 @@
+
+metodo_novo(){
+	inicial
+}
