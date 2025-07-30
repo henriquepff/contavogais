@@ -2,6 +2,5 @@ Arquivo inicial do projeto1
 
 metodoX(){
 
-	principal
-
+	programador2
 }
